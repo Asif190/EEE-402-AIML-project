@@ -14,3 +14,6 @@ Curriculum optimization suggestions via fine-tuned FLAN-T5
 Custom synthetic dataset generation and preprocessing
 
 Modular, Colab-friendly Python codebase
+
+Kaggle Link: https://www.kaggle.com/code/mohammadasifhasan/aiml-project-updated
+
